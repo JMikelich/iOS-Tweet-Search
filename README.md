@@ -1,5 +1,5 @@
 # iOS-Tweet-Search
-A easy to follow demo of Twitter's new 1.1 REST api.
+A easy to follow demo of a tweet search using Twitter's new 1.1 REST api.
 
 Overview: This is the basic platform I designed in order to search tweets using iOS Twitter API's. The app has two main functionalities: search and save tweets, view and delete saved tweets. Twitter's previous REST api versions were easy to interact with using various 3rd party RESTful api's such as AFNETWORKING or RESTkit. Recently twitter changed their REST API. Although it is still possible using 3rd party api's, it is much easier using this method.
 
