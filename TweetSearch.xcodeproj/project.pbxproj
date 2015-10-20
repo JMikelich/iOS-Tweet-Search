@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		150F41CB1BD6DAC8001D256B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 150F41CA1BD6DAC8001D256B /* Images.xcassets */; };
 		157973891B696C0300AD4A86 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 157973881B696C0300AD4A86 /* main.m */; };
 		1579738C1B696C0300AD4A86 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1579738B1B696C0300AD4A86 /* AppDelegate.m */; };
 		1579738F1B696C0300AD4A86 /* TweetSearch.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1579738D1B696C0300AD4A86 /* TweetSearch.xcdatamodeld */; };
 		157973921B696C0300AD4A86 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 157973911B696C0300AD4A86 /* ViewController.m */; };
-		157973971B696C0300AD4A86 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 157973961B696C0300AD4A86 /* Images.xcassets */; };
 		1579739A1B696C0300AD4A86 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 157973981B696C0300AD4A86 /* LaunchScreen.xib */; };
 		157973B11B696F0900AD4A86 /* SearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 157973B01B696F0900AD4A86 /* SearchViewController.m */; };
 		157973B31B69717900AD4A86 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 157973B21B69717900AD4A86 /* Storyboard.storyboard */; };
@@ -20,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		150F41CA1BD6DAC8001D256B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		157973831B696C0300AD4A86 /* TweetSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TweetSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		157973871B696C0300AD4A86 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		157973881B696C0300AD4A86 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -28,7 +29,6 @@
 		1579738E1B696C0300AD4A86 /* TweetSearch.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TweetSearch.xcdatamodel; sourceTree = "<group>"; };
 		157973901B696C0300AD4A86 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		157973911B696C0300AD4A86 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		157973961B696C0300AD4A86 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		157973991B696C0300AD4A86 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		157973AF1B696F0900AD4A86 /* SearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchViewController.h; sourceTree = "<group>"; };
 		157973B01B696F0900AD4A86 /* SearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchViewController.m; sourceTree = "<group>"; };
@@ -101,7 +101,7 @@
 			children = (
 				157973B21B69717900AD4A86 /* Storyboard.storyboard */,
 				157973981B696C0300AD4A86 /* LaunchScreen.xib */,
-				157973961B696C0300AD4A86 /* Images.xcassets */,
+				150F41CA1BD6DAC8001D256B /* Images.xcassets */,
 			);
 			name = Resources;
 			path = TweetSearch;
@@ -174,7 +174,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1579739A1B696C0300AD4A86 /* LaunchScreen.xib in Resources */,
-				157973971B696C0300AD4A86 /* Images.xcassets in Resources */,
+				150F41CB1BD6DAC8001D256B /* Images.xcassets in Resources */,
 				15EA59C51B7021170020AA91 /* License in Resources */,
 				157973B31B69717900AD4A86 /* Storyboard.storyboard in Resources */,
 			);
