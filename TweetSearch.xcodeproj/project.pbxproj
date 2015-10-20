@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		150F41CB1BD6DAC8001D256B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 150F41CA1BD6DAC8001D256B /* Images.xcassets */; };
 		157973891B696C0300AD4A86 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 157973881B696C0300AD4A86 /* main.m */; };
 		1579738C1B696C0300AD4A86 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1579738B1B696C0300AD4A86 /* AppDelegate.m */; };
 		1579738F1B696C0300AD4A86 /* TweetSearch.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1579738D1B696C0300AD4A86 /* TweetSearch.xcdatamodeld */; };
@@ -20,7 +19,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		150F41CA1BD6DAC8001D256B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		157973831B696C0300AD4A86 /* TweetSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TweetSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		157973871B696C0300AD4A86 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		157973881B696C0300AD4A86 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -101,7 +99,6 @@
 			children = (
 				157973B21B69717900AD4A86 /* Storyboard.storyboard */,
 				157973981B696C0300AD4A86 /* LaunchScreen.xib */,
-				150F41CA1BD6DAC8001D256B /* Images.xcassets */,
 			);
 			name = Resources;
 			path = TweetSearch;
@@ -174,7 +171,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				1579739A1B696C0300AD4A86 /* LaunchScreen.xib in Resources */,
-				150F41CB1BD6DAC8001D256B /* Images.xcassets in Resources */,
 				15EA59C51B7021170020AA91 /* License in Resources */,
 				157973B31B69717900AD4A86 /* Storyboard.storyboard in Resources */,
 			);
@@ -291,7 +287,6 @@
 		157973AA1B696C0300AD4A86 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = TweetSearch/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -302,7 +297,6 @@
 		157973AB1B696C0300AD4A86 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = TweetSearch/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
