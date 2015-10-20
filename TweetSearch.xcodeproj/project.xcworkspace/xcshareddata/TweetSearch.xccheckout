@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>28C5C1DD-8CDC-4E87-8819-2D52A2F26CDD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TweetSearch</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>04E22D4BFEB9DEB451E0F76E9E0CCF5025E267EC</key>
+		<string>https://github.com/LanziVision/iOS-Tweet-Search.git</string>
+		<key>751D1605FC0AFAA5C56EA66B200587B54D30DE89</key>
+		<string>https://github.com/LanziVision/Whisper-Challenge.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TweetSearch.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>04E22D4BFEB9DEB451E0F76E9E0CCF5025E267EC</key>
+		<string>../../TweetSearch</string>
+		<key>751D1605FC0AFAA5C56EA66B200587B54D30DE89</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/LanziVision/Whisper-Challenge.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>751D1605FC0AFAA5C56EA66B200587B54D30DE89</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>751D1605FC0AFAA5C56EA66B200587B54D30DE89</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TweetSearch</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>04E22D4BFEB9DEB451E0F76E9E0CCF5025E267EC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TweetSearch</string>
+		</dict>
+	</array>
+</dict>
+</plist>
